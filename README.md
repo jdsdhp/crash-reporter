@@ -9,7 +9,7 @@ With CrashReporter you can provide direct feedback from users, detect bugs in ap
 
 ## Screenshots
 Dialog Notification | Email Functionality
-:-:|:-:|:-:
+:-:|:-:
 ![](art/art-01.jpg) | ![](art/art-02.jpg)
 
 ## Including in your project
